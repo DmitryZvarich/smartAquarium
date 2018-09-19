@@ -24,7 +24,7 @@ void setup()
   //clock.fillByYMD(2018,9,8);
   //clock.fillByHMS(18,45 ,00);
   //clock.fillDayOfWeek(SAT);
-  clock.setTime();//write time to the RTC chip
+  //clock.setTime();//write time to the RTC chip
 }
 void loop()
 {
