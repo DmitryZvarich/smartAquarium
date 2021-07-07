@@ -39,7 +39,7 @@ void loop()
     digitalWrite(lightPin, HIGH);
   }
 
-  if (clock.hour == 7 && clock.minute == 5)
+  if (clock.hour == 7 && clock.minute == 35)
   {
     digitalWrite(feederPin, LOW);
     delay(1000);
